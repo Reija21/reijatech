@@ -414,7 +414,7 @@ a {
   position: relative;
 }
 
-.bxl-instagram, .bxl-twitter, .bxl-github, .bxl-youtube, .bxl-twitch, .bxl-discord {
+.bxl-instagram, .bxl-twitter, .bxl-github, .bxl-upwork, .bxl-twitch, .bxl-discord {
     position: absolute;
     left: 13%;
     font-size: 120%;
